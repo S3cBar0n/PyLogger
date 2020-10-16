@@ -14,7 +14,7 @@ Records audio from the default Microphone.
 
 Takes routine screenshots.
 
-Gather's all the collected info, Encrypts it, and emails it to a private email.
+Gather's all the collected info, Encrypts it, and emails it an email of your choice.
 
 Once email is sent out, all files gathered are deleted.
 
